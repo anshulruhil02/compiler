@@ -1,0 +1,1 @@
+This parser takes CFG production rules, valid transitions, and valid reductions as input and uses bottom up parsing to ouput every step of the th eparsing process. This code represents SLR parsing algorithm in C++
